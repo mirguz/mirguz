@@ -10,3 +10,5 @@
 ![Rust](https://img.shields.io/badge/rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Elixir](https://img.shields.io/badge/elixir-%237c6d91.svg?style=for-the-badge&logo=elixir&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+I migrated all my code to my personal GitLab self-hosted VCS
